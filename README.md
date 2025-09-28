@@ -1,4 +1,8 @@
 # Parkour Game / Parkur Oyunu
+<img width="1370" height="822" alt="Ekran görüntüsü 2025-09-29 005358" src="https://github.com/user-attachments/assets/847da2eb-97db-4717-9a9b-aaf8be9d3788" />
+<img width="1918" height="1079" alt="Ekran görüntüsü 2025-09-29 005627" src="https://github.com/user-attachments/assets/bb0017bc-bef4-4c9f-866c-c1421246752b" />
+
+
 
 A 3D parkour game developed in Unity with obstacle courses, health system, and various interactive elements.
 
