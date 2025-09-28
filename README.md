@@ -63,7 +63,7 @@ Unity ile geliştirilmiş, engel parkurları, sağlık sistemi ve çeşitli etki
 
 1. **Clone the repository** / **Depoyu klonlayın**
    ```bash
-   git clone [https://github.com/EsrefEmreBayrakci/Parkur]
+   git clone https://github.com/EsrefEmreBayrakci/Parkur
    ```
 
 2. **Open in Unity** / **Unity'de açın**
