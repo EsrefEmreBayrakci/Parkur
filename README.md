@@ -59,13 +59,15 @@ Unity ile geliştirilmiş, engel parkurları, sağlık sistemi ve çeşitli etki
 
 1. **Clone the repository** / **Depoyu klonlayın**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/EsrefEmreBayrakci/Parkur]
    ```
 
 2. **Open in Unity** / **Unity'de açın**
    - Open Unity Hub / Unity Hub'ı açın
    - Click "Add" and select the project folder / "Ekle"ye tıklayın ve proje klasörünü seçin
    - Open the project / Projeyi açın
+   💡 Alternatively: If you have downloaded the built version, you can run the Parkur.exe file inside the Parkur folder to play the game directly. Unity installation is not required.
+   💡 Alternatif olarak: Derlenmiş sürümü indirdiyseniz, Parkur klasöründeki Parkur.exe dosyasını çalıştırarak oyunu doğrudan oynayabilirsiniz. Unity kurmanıza gerek yoktur.
 
 3. **Open the scene** / **Sahneyi açın**
    - Navigate to `Assets/Scenes/testScene.unity` / `Assets/Scenes/testScene.unity` dosyasına gidin
@@ -101,12 +103,4 @@ Assets/Scripts/
 - **Time your jumps** / **Zıplamalarınızı zamanlayın**: Some obstacles require precise timing / Bazı engeller hassas zamanlama gerektirir
 - **Look for healing items** / **İyileştirme öğelerini arayın**: Keep your health up / Sağlığınızı yüksek tutun
 
-### For Developers / Geliştiriciler İçin
-- **Modular design** / **Modüler tasarım**: Each script handles a specific feature / Her betik belirli bir özelliği yönetir
-- **Easy customization** / **Kolay özelleştirme**: Public variables for easy tweaking / Kolay ayarlama için genel değişkenler
-- **Extensible system** / **Genişletilebilir sistem**: Easy to add new obstacles and mechanics / Yeni engeller ve mekanikler eklemek kolay
 
-
----
-
-**Enjoy the game! / Oyunun tadını çıkarın!** 🎮
